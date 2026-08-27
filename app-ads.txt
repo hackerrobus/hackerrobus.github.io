@@ -1,1 +1,3 @@
+# AfriArena — app-ads.txt
+google.com, pub-7854855503365530, DIRECT, f08c47fec0942fa0
 
