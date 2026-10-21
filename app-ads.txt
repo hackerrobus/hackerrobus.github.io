@@ -149,3 +149,7 @@ smartadserver.com, 5791, RESELLER, 060d053dcf45cbf3
 sharethrough.com, 5791, RESELLER, 060d053dcf45cbf3
 pubmatic.com, 156500, RESELLER, 5d62403b186f2ace
 insticator.com, e2d3e33c-9911-477a-8ae2-f059870c67c0, RESELLER, b3511ffcafb23a32
+improvedigital.com, 2975, RESELLER
+optimatenetwork.com, 20001, RESELLER
+conversantmedia.com, 100772, RESELLER, 03113cd04947736d
+zetaglobal.net, 551, RESELLER
